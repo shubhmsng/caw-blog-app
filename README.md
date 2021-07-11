@@ -1,3 +1,5 @@
+[![Heroku App Status](http://heroku-shields.herokuapp.com/powerful-inlet-53711)](https://powerful-inlet-53711.herokuapp.com)
+
 To try out this application visit [https://powerful-inlet-53711.herokuapp.com/](https://powerful-inlet-53711.herokuapp.com/)
 
 # Getting Started with Blog App
