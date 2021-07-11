@@ -10,7 +10,6 @@ function CardComponent({title, body, email, id, clickable}) {
                 {
                     clickable ?
                     <Link
-                    target="_blank"
                     key={ "link-" + id }
                     to={ { pathname: "/" + id } }>
                         <CardContent>
