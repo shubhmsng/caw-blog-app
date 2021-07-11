@@ -19,7 +19,7 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "start": "webpack serve --mode=production --config webpack.config.js --open",
+    "start": "serve -s build",
     "build": "react-scripts build"
   },
   "eslintConfig": {
